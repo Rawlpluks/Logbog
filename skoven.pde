@@ -97,7 +97,7 @@ line(mouseX+20,mouseY-10,mouseX+20,mouseY+15);
 line(mouseX-8,mouseY-25,mouseX+10,mouseY-20);
 line(230,120,220,110);
 
-//Bob's hoved
+//Bob's hovede
 fill(255);
 ellipse(mouseX-10,mouseY-45,60,60);
 
